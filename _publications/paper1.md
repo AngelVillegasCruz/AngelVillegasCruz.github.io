@@ -3,7 +3,7 @@ title: #"Paper Title Number 1"
 collection: publications
 permalink: /publication/paper1
 excerpt: #''
-date: #2009-10-01
+date: 2014-08-13
 venue: #'Journal 1'
 paperurl: 'https://ingenios.squarespace.com/vol1-1/2014/8/13/el-discurso-de-la-iglesia-protestante-en-torno-a-la-segunda-guerra-mundial-en-la-revista-puerto-rico-evanglico-1940-1945'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
