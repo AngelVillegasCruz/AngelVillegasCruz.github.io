@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "El discurso de la Iglesia Protestante en torno a la Segunda Guerra Mundial en la Revista Puerto Rico Evangélico, 1940-1945"
 collection: publications
 permalink: /publication/paper1
 excerpt: #''
