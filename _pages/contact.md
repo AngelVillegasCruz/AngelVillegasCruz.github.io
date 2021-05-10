@@ -10,7 +10,7 @@ amv5718@psu.edu
 214 Pond Lab
 
 ## Mailing Address
-⋅⋅⋅ 203 Pond Lab ⋅⋅
-⋅⋅⋅ Department of Political Science ⋅⋅
-⋅⋅⋅ Pennsylvania State University ⋅⋅
-⋅⋅⋅ University Park, PA 16802
+203 Pond Lab
+<br> Department of Political Science
+<br> Pennsylvania State University
+<br> University Park, PA 16802
