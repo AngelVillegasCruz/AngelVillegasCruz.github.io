@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Angel M. Villegas Cruz"
+title                    : "Angel M. Villegas Cruz (安河)"
 title_separator          : "-"
-name                     : &name "Angel M. Villegas Cruz"
+name                     : &name "Villegas-Cruz"
 description              : &description "personal description"
 url                      : https://AngelVillegasCruz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/angel-manuel-villegas-cruz-%E5%AE%89%E6%B2%B3-010061179/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
