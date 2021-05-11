@@ -7,6 +7,7 @@ Based on my research interests, I look forward to teaching classes in Internatio
 
 ##  Pennsylvania State University
 
+- Teaching assistant to Professor Kevin Munger’s <b>PLSC 497: Text as Data</b> (Spring 2021)
 - In Spring 2021, I served as a teaching assistant to Professor Kevin Munger’s PLSC 497: Text as Data
   - Guest Lecture: “Twitter Scraping” (04/08/2021)
   - Holding office hours, grading, and other regular TA tasks
