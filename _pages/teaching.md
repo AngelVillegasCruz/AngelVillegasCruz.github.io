@@ -7,6 +7,9 @@ Based on my research interests, I look forward to teaching classes in Internatio
 
 ##  Pennsylvania State University
 
+- Teaching assistant to Professor Jeremy Ladd’s <b>PLSC 309: Quantitative Political Analysis</b> (Fall 2021)
+  - Holding office hours, grading, and other regular TA tasks
+
 - Teaching assistant to Professor Kevin Munger’s <b>PLSC 497: Text as Data</b> (Spring 2021)
   - Guest Lecture: “Twitter Scraping” (04/08/2021)
   - Holding office hours, grading, and other regular TA tasks
