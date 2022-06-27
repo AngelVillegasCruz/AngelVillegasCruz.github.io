@@ -11,3 +11,6 @@ main:
 
   - title: "Contact"
     url: /contact/
+
+  - title: "Other useful links"
+  url: /other/
