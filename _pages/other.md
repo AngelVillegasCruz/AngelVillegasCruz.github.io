@@ -5,4 +5,6 @@ permalink: /other/
 author_profile: true
 ---
 
-You can download a PDF copy of m
+[Penn State Political Science](https://polisci.la.psu.edu/people/amv5718/) - Department of Political Science at Penn State University
+
+[Penn State Asian Studies](https://asian.la.psu.edu/people/angel-m-villegas-cruz/) - Department of Asian Studies at Penn State University
