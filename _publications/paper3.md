@@ -3,7 +3,7 @@ title: "Firms Caught in Crossfire: International Stakes and Domestic Politics in
 collection: publications
 permalink: /publication/paper3
 excerpt: #''
-date: #2014-08-13
+date: 2022-06-26
 venue: #'Revista [IN]Genios'
 paperurl: #'https://ingenios.squarespace.com/vol1-1/2014/8/13/el-discurso-de-la-iglesia-protestante-en-torno-a-la-segunda-guerra-mundial-en-la-revista-puerto-rico-evanglico-1940-1945'
 citation: 'Boliang Zhu, Aubrey Waddick, Yilang Feng, and <b>Angel M. Villegas-Cruz</b>. 2022. “Firms Caught in Crossfire: International Stakes and Domestic Politics in Corporate Positioning on De-Globalization.” Working Paper.'
