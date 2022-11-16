@@ -1,5 +1,5 @@
 ---
-title: “Male, U.S. Full History Professor, and China scholar: The recipe to get published in The Journal of Asian Studies, 2000-2020”
+title: "Male, U.S. Full History Professor, and China scholar: The recipe to get published in The Journal of Asian Studies, 2000-2020"
 collection: publications
 permalink: /publication/paper3
 excerpt: #''
