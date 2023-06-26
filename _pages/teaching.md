@@ -3,7 +3,13 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-#  Pennsylvania State University
+I have served as an instructor of record for undergraduate courses in international relations and have given guest lectures in other courses on topics such as Chinese politics, quantitative methods, international political economy, and text-as-data methods. Additionally, I have worked as a teaching assistant for multiple courses.
+
+I am eager to expand my teaching portfolio. In addition to an introductory course in international relations, I am equipped to offer the following courses:
+
+  - <b>Primary substantive expertise</b>: Public Diplomacy, Chinese Foreign Policy, Social Media and Politics, U.S.-China Relations, International Political Economy, Introduction to Comparative Politics.
+
+  - <b>Methodological expertise</b>: Quantitative Political Analysis, Text-as-Data Methods, Survey Design and Analysis, Digital Humanities.
 
 ## Instructor
 
@@ -32,9 +38,3 @@ title: "Teaching"
 
 - TA to Professor Matthew Golder’s <b>PLSC 003: Introduction to Comparative Politics</b> (Fall 2019)
   - Holding office hours, grading, and other regular TA tasks
-
-I am eager to expand my teaching portfolio. In addition to an introductory course in international relations, I am equipped to offer the following courses:
-
-  - <b>Primary substantive expertise<b>: Public Diplomacy, Chinese Foreign Policy, Social Media and Politics, U.S.-China Relations, International Political Economy, Introduction to Comparative Politics.
-
-  - <b>Methodological expertise<b>: Quantitative Political Analysis, Text-as-Data Methods, Survey Design and Analysis, Digital Humanities.
