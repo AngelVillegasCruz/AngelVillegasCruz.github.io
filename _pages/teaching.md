@@ -16,6 +16,9 @@ I am eager to expand my teaching portfolio. In addition to an introductory cours
 - Instructor of Record for <b>PLSC 14: Introduction to International Relations</b> (Summer 2023)
   - [Syllabus](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/PLSC%2014%20Summer%202023.pdf)
 
+- I have also prepared a syllabus for an upper-level undergraduate course in Chinese Foreign Policy
+  - [Syllabus](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Chinese%20Foreign%20Policy%20Syllabus%2C%20VillegasCruz.pdf)
+
 ## Teaching Assistant
 
 - TA to Professor Jeremy Ladd’s <b>PLSC 309: Quantitative Political Analysis</b> (Fall 2021)
