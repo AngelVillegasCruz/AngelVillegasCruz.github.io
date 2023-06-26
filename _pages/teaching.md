@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-I have served as an instructor of record for undergraduate courses in international relations and have given guest lectures in other courses on topics such as Chinese politics, quantitative methods, international political economy, and text-as-data methods. Additionally, I have worked as a teaching assistant for multiple courses.
+I have served as an instructor of record for undergraduate courses in international relations and have given guest lectures in other courses on topics, such as Chinese politics, quantitative methods, international political economy, and text-as-data methods. Additionally, I have worked as a teaching assistant for multiple courses.
 
 I am eager to expand my teaching portfolio. In addition to an introductory course in international relations, I am equipped to offer the following courses:
 
