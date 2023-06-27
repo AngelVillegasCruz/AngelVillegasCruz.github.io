@@ -7,11 +7,11 @@ author_profile: true
 
 # Dissertation
 
-<b>Angel M. Villegas-Cruz</b>. 2023. [“The effect of economic ties on digital diplomacy: A sentiment analysis of the Twitter accounts of Chinese diplomatic mission.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Chapter1.pdf)
+<b>Angel M. Villegas-Cruz</b>. 2023. [“The effect of economic ties on digital diplomacy: A sentiment analysis of the Twitter accounts of Chinese diplomatic mission.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Chapter1.pdf) (Under Review)
 
 <b>Abstract</b>: I examine how economic ties between host and guest countries affect the emotional valence in the social media content published by digital diplomats (DD). Strong economic ties will lead DD to adopt a positive tone because strong economic ties raise the potential costs of verbal aggressiveness online. A positive emotional valence on social media also serves to cultivate good public perceptions of the guest and its economic activities. To evaluate these claims, I analyze 53,601 original tweets published by 88 Chinese diplomatic Twitter accounts from 2014 to 2020. I find economic ties have a strong positive effect on the tone adopted by DD. As the host’s trade dependence with China increases, Chinese diplomatic missions are more likely to adopt a positive tone on Twitter, especially when talking about politics and business. This research contributes to the study of how countries use social media to conduct diplomacy.
 
-#Other
+# Other
 
 ## Online political behavior
 
