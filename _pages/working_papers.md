@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 # Dissertation
-
 ### Chapter 1
 <b>Angel M. Villegas-Cruz</b>. 2023. [“The effect of economic ties on digital diplomacy: A sentiment analysis of the Twitter accounts of Chinese diplomatic mission.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Chapter1.pdf) (Under Review)
 
@@ -21,7 +20,6 @@ I examine how economic ties between host and guest countries affect the emotiona
 ### Chapter 3
 
 # Other research
-
 ## Digital technologies and politics
 
 Kevin Munger, <b>Angel M. Villegas-Cruz</b>, Jorge Gallego, and Mateo Vásquez-Cortés. 2023. [“‘Reenviado Muchas Veces’: How Platform Warnings Affect WhatsApp Users in Mexico and Colombia.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/DigLitFB.pdf) (R&R Political Communication)
