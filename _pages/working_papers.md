@@ -62,7 +62,7 @@ Boliang Zhu, <b>Angel M. Villegas-Cruz</b>, and Aubrey Waddick. 2023. “Liberal
 We propose and test an argument of liberalization for sale, akin to “protection for sale” (Grossman and Helpman 1994). In a new world where protectionism is the status quo, trade liberalization becomes a highly valuable private benefit, and it is targetable to specific constituents for political gains. Empirically, we examine the tariff exclusion process in the high-profile U.S.-China trade war. We build a novel data set of firms’ tariff exclusion requests and exemptions for the universe of large and very large U.S. firms. We show that firms’ decisions of submitting tariff exclusion requests are both economically and politically motivated. Yet, the Office of the U.S. Trade Representative’s tariff exclusion process is highly politicized and its decision of granting a tariff exclusion is primarily politically driven. Tariff exclusions are used to shore up political support in pivotal swing districts and to reward firms that are politically connected to the president’s co-partisans.
 </details>
 
-## Diversity in Asian Studies
+## Diversity, Equity, and Inclusion
 
 <b>Angel M. Villegas-Cruz</b>. 2022. [“Who is writing and what are they writing about? Text analysis and publication patterns in <i>The Journal of Asian Studies</i>, 2000-2020.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Figures_CAS/Text_analysis_and_JAS_VIllegas_Cruz.pdf)
 
