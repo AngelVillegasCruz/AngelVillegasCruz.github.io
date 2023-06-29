@@ -29,6 +29,13 @@ Kevin Munger, <b>Angel M. Villegas-Cruz</b>, Jorge Gallego, and Mateo Vásquez-C
 Digital literacy affects how people use the internet. However, we argue that the concept of ”digital literacy” cannot usefully be applied to all internet users; there is simply too much heterogeneity across devices, platforms, and social contexts. We conduct surveys in Mexico and Colombia to understand how these people use the internet. We find that WhatsApp is by far the dominant platform across all sectors of society. In contrast to evidence from the US, we find that education is a better predictor of two measures of digital literacy than is age. We then conduct a survey experiment to test how people understand news shared on WhatsApp. We find that the inclusion of a link to source material increases respondents' trust in a message shared on WhatsApp, but that the platform-supplied note that a message has been shared many times has no such effect.
 </details>
 
+<b>Angel M. Villegas-Cruz</b>. 2023. [“Online Infrastructure and Bot Followers: A quantitative description of African MFAs' diplomatic strategies on social media.”] (Under Review)
+
+<details>
+<summary>Abstract</summary>
+The use of social media in public diplomacy, or digital diplomacy, can be a tool for low-level information warfare to shape public opinion and serve political interests. Despite the focus of existing literature on great powers, African MFAs have embraced the digital revolution. This article traces the emergence of African digital diplomacy by exploring its online infrastructure, including its presence, determinants, bot followers, and more, through cross-platform and cross-country comparisons. It employs a quantitative descriptive approach to analyze an original dataset of all African MFAs on social media. Findings reveal that African MFAs are more active on Twitter despite having a larger presence on Facebook. The key determinants of African digital diplomacy are a large population, English as an official language, democratic governance, and widespread internet access. Furthermore, 38% of Twitter followers in African digital diplomacy are bots, with African MFAs in democracies having more bots than those in non-democracies. This research has implications for diplomatic communications in Africa and beyond.
+</details>
+
 ## Chinese foreign policy
 
 <b>Angel M. Villegas-Cruz</b>. 2023. [“Nation Branding and COVID-19: An Empirical Investigation of Self-Reports of Medical Donations in Chinese Digital Diplomacy.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/COVID_19.pdf) (Under Review)
