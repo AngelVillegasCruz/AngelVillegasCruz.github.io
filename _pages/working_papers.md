@@ -7,7 +7,7 @@ author_profile: true
 
 # Dissertation
 ### Chapter 1
-<b>Angel M. Villegas-Cruz</b>. 2023. [“The effect of economic ties on digital diplomacy: A sentiment analysis of the Twitter accounts of Chinese diplomatic mission.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Chapter1.pdf) (Under Review)
+<b>Angel M. Villegas-Cruz</b>. 2023. [“The Effect of Economic Ties on Digital Diplomacy: A Sentiment Analysis of the Twitter Accounts of Chinese Diplomatic Missions.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Chapter1.pdf) (Under Review)
 
 <details>
 <summary>Abstract</summary>
@@ -17,19 +17,28 @@ I examine how economic ties between host and guest countries affect the emotiona
 ### Chapter 2
 <b>Angel M. Villegas-Cruz</b>. 2023. “Public Diplomacy and Social Media: Testing the Effectiveness of China’s Wolf Warrior Diplomacy.”
 
+<details>
+<summary>Abstract</summary>
+In the second chapter, I conduct a survey experiment exposing American internet users to Chinese diplomatic tweets. To date, there has been surprisingly little research on the influence of Chinese digital diplomacy. My findings show that it does not significantly alter general perceptions of China. However, it has a strong backlash effect in terms of increasing support for anti-Chinese policies. Exposure to Chinese diplomatic tweets with competing information, verbal aggressiveness, and even, to a lesser extent, a friendly tone increases support for tougher policies toward Beijing, such as recognizing Taiwan as an independent country. Subgroup analyses also reveal that the effect of exposure to Chinese diplomatic tweets also varies based on participants’ social media use, education, ideology, and race. This finding is quite novel, as previous studies on the influence of online propaganda or public diplomacy have assumed a uniform effect among individuals.
+</details>
+
 ### Chapter 3
+<details>
+<summary>Abstract</summary>
+In the final chapter, I explore whether Chinese diplomats’ personal backgrounds influence the way they use social media. I argue that diplomats with a non-traditional background (e.g., did not graduate from an elite diplomatic school) have a higher incentive to burnish their reputation at home through the use of digital diplomacy. To investigate this, I scrape tweets by Chinese diplomats and combine them with an original dataset of biographical information about the Chinese diplomatic elite, which I collected with the help of an undergraduate research assistant. The dataset contains information on approximately 500 high-level Chinese diplomatic elites, including Ministers, Vice-Ministers, Director-Generals, Deputy Director-Generals, Ambassadors, and Consuls. I collect information such as age, birthplace, gender, ethnicity, educational background, professional experience, language skills, etc. Through statistical analysis, I subsequently examine which individual-level factors influence their online political behavior.
+</details>
 
 # Other research
 ## Digital technologies and politics
 
-Kevin Munger, <b>Angel M. Villegas-Cruz</b>, Jorge Gallego, and Mateo Vásquez-Cortés. 2023. [“‘Reenviado Muchas Veces’: How Platform Warnings Affect WhatsApp Users in Mexico and Colombia.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/DigLitFB.pdf) (R&R Political Communication)
+Kevin Munger, <b>Angel M. Villegas-Cruz</b>, Jorge Gallego, and Mateo Vásquez-Cortés. 2023. [“‘Reenviado Muchas Veces’: How Platform Warnings Affect WhatsApp Users in Mexico and Colombia.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/DigLitFB.pdf) (R&R <i>Political Communication</i>)
 
 <details>
 <summary>Abstract</summary>
 Digital literacy affects how people use the internet. However, we argue that the concept of ”digital literacy” cannot usefully be applied to all internet users; there is simply too much heterogeneity across devices, platforms, and social contexts. We conduct surveys in Mexico and Colombia to understand how these people use the internet. We find that WhatsApp is by far the dominant platform across all sectors of society. In contrast to evidence from the US, we find that education is a better predictor of two measures of digital literacy than is age. We then conduct a survey experiment to test how people understand news shared on WhatsApp. We find that the inclusion of a link to source material increases respondents' trust in a message shared on WhatsApp, but that the platform-supplied note that a message has been shared many times has no such effect.
 </details>
 
-<b>Angel M. Villegas-Cruz</b>. 2023. “Online Infrastructure and Bot Followers: A quantitative description of African MFAs' diplomatic strategies on social media.” (Under Review)
+<b>Angel M. Villegas-Cruz</b>. 2023. “Online Infrastructure and Bot Followers: A Quantitative Description of African MFAs' Diplomatic Strategies on Social Media.” (Under Review)
 
 <details>
 <summary>Abstract</summary>
@@ -38,19 +47,18 @@ The use of social media in public diplomacy, or digital diplomacy, can be a tool
 
 ## Chinese foreign policy
 
+<b>Angel M. Villegas-Cruz</b>. 2023. [“Communicating state repression to the international community: A Case Study of How Chinese Diplomats Frame their Actions in Xinjiang.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Xinjiang.pdf) (R&R <i>Foreign Policy Analysis</i>)
+
+<details>
+<summary>Abstract</summary>
+Regimes and their proxies seek to legitimize overt state repression abroad to avoid economic and reputational costs. Yet, few scholars have studied the international dimension of repression image management. I examine how countries communicate their repressive actions to the international community depending on the audience. Framing repression as a legitimate response to a credible threat (threat strategy) is more likely when communicating with countries facing higher levels of domestic threat. But due to in-group favoritism, when addressing in-group audiences of the repressed, governments are more likely to frame repression as necessary to protect the repressed (benevolent rule strategy). To test these claims, I collect 88,011 tweets about activities in Xinjiang published by 88 Chinese diplomatic accounts from 2014 to 2020. The results suggest that regimes change their repression image management strategies depending on the audience. Chinese government accounts in countries with higher levels of domestic conflict are more likely to use the threat strategy than those in countries with lower levels of conflict, while those in countries with a similar in-group to Xinjiang (Muslim countries) are more likely to use the benevolent rule strategy than those in out-group states. This expands our understanding of the communication strategies of human-rights-abusing regimes.
+</details>
+
 <b>Angel M. Villegas-Cruz</b>. 2023. [“Nation Branding and COVID-19: An Empirical Investigation of Self-Reports of Medical Donations in Chinese Digital Diplomacy.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/COVID_19.pdf) (Under Review)
 
 <details>
 <summary>Abstract</summary>
 This research examines how Beijing uses social media to publicize donations and engage in nation branding as it responds to the global backlash sparked by COVID-19. It argues that self-reports of medical donations aim to enhance China’s national brand, and therefore, reports about donations are expected to target countries harder hit by the virus. To test its claims, the research analyzes over 55,000 tweets published by Chinese diplomatic missions. The results show —controlled for Chinese donation exports— a positive and significant relationship between self-reports of medical donations and the host’s spread of COVID-19. Conversely, political or economic partners tend not to be mentioned as recipients. A comparison of government (CCP, ministries, etc.) and non-government donors (immigrants, firms, etc.) shows that only tweets about government donors are positively correlated with the spread of the virus. This research advances our knowledge of Chinese diplomats’ online political behavior.
-</details>
-
-
-<b>Angel M. Villegas-Cruz</b>. 2023. [“Communicating state repression to the international community: A case study of how China frames its policies in Xinjiang online.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Xinjiang.pdf) (Under Review)
-
-<details>
-<summary>Abstract</summary>
-Regimes and their proxies seek to legitimize overt state repression abroad to avoid economic and reputational costs. Yet, few scholars have studied the international dimension of repression image management. I examine how countries communicate their repressive actions to the international community depending on the audience. Framing repression as a legitimate response to a credible threat (threat strategy) is more likely when communicating with countries facing higher levels of domestic threat. But due to in-group favoritism, when addressing in-group audiences of the repressed, governments are more likely to frame repression as necessary to protect the repressed (benevolent rule strategy). To test these claims, I collect 88,011 tweets about activities in Xinjiang published by 88 Chinese diplomatic accounts from 2014 to 2020. The results suggest that regimes change their repression image management strategies depending on the audience. Chinese government accounts in countries with higher levels of domestic conflict are more likely to use the threat strategy than those in countries with lower levels of conflict, while those in countries with a similar in-group to Xinjiang (Muslim countries) are more likely to use the benevolent rule strategy than those in out-group states. This expands our understanding of the communication strategies of human-rights-abusing regimes.
 </details>
 
 ## U.S.-China trade war
@@ -71,7 +79,7 @@ We propose and test an argument of liberalization for sale, akin to “protectio
 
 ## Diversity, Equity, and Inclusion
 
-<b>Angel M. Villegas-Cruz</b>. 2022. [“Who is writing and what are they writing about? Text analysis and publication patterns in <i>The Journal of Asian Studies</i>, 2000-2020.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Figures_CAS/Text_analysis_and_JAS_VIllegas_Cruz.pdf)
+<b>Angel M. Villegas-Cruz</b>. 2022. [“Who Is Writing and What Are They writing About? Text Analysis and Publication Patterns in <i>The Journal of Asian Studies</i>, 2000-2020.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Figures_CAS/Text_analysis_and_JAS_VIllegas_Cruz.pdf)
 
 <details>
 <summary>Abstract</summary>
