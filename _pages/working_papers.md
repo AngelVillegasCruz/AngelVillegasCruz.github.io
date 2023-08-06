@@ -23,6 +23,8 @@ In the second chapter, I conduct a survey experiment exposing American internet 
 </details>
 
 ### Chapter 3
+<b>Angel M. Villegas-Cruz</b>. 2023. “An unusual application of Chinese digital diplomacy: Reflecting diplomats’ career aspirations.”
+
 <details>
 <summary>Abstract</summary>
 In the final chapter, I explore whether Chinese diplomats’ personal backgrounds influence the way they use social media. I argue that diplomats with a non-traditional background (e.g., did not graduate from an elite diplomatic school) have a higher incentive to burnish their reputation at home through the use of digital diplomacy. To investigate this, I scrape tweets by Chinese diplomats and combine them with an original dataset of biographical information about the Chinese diplomatic elite, which I collected with the help of an undergraduate research assistant. The dataset contains information on approximately 500 high-level Chinese diplomatic elites, including Ministers, Vice-Ministers, Director-Generals, Deputy Director-Generals, Ambassadors, and Consuls. I collect information such as age, birthplace, gender, ethnicity, educational background, professional experience, language skills, etc. Through statistical analysis, I subsequently examine which individual-level factors influence their online political behavior.
