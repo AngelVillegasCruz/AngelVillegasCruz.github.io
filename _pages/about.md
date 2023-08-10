@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a dual-title Ph.D. candidate in Political Science and Asian Studies at the Pennsylvania State University, where I expect to defend my dissertation in May 2024.
+Hello! I am currently a dual-title Ph.D. candidate in Political Science and Asian Studies at the Pennsylvania State University, where I expect to defend my dissertation in Spring 2024.
 
 My dissertation examines how countries use social media to advance their foreign policy interests and whether these efforts can influence foreign public opinion. My research interests include public diplomacy, Chinese foreign policy, social media, Sino-American relations, and international political economy. Methodologically, I am interested in quantitative political science, text analysis, survey experiments, and digital humanities.
 
