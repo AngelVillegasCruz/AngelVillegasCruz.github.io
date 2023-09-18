@@ -31,6 +31,23 @@ In the final chapter, I explore whether Chinese diplomats’ personal background
 </details>
 
 # Other research
+
+## Chinese foreign policy
+
+<b>Angel M. Villegas-Cruz</b>. 2023. [“Communicating state repression to the international community: A Case Study of How Chinese Diplomats Frame their Actions in Xinjiang.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Xinjiang.pdf) (R&R <i>Foreign Policy Analysis</i>)
+
+<details>
+<summary>Abstract</summary>
+Regimes and their proxies seek to legitimize overt state repression abroad to avoid economic and reputational costs. Yet, few scholars have studied the international dimension of repression image management. I examine how countries communicate their repressive actions to the international community depending on the audience. Framing repression as a legitimate response to a credible threat (threat strategy) is more likely when communicating with countries facing higher levels of domestic threat. But due to in-group favoritism, when addressing in-group audiences of the repressed, governments are more likely to frame repression as necessary to protect the repressed (benevolent rule strategy). To test these claims, I collect 88,011 tweets about activities in Xinjiang published by 88 Chinese diplomatic accounts from 2014 to 2020. The results suggest that regimes change their repression image management strategies depending on the audience. Chinese government accounts in countries with higher levels of domestic conflict are more likely to use the threat strategy than those in countries with lower levels of conflict, while those in countries with a similar in-group to Xinjiang (Muslim countries) are more likely to use the benevolent rule strategy than those in out-group states. This expands our understanding of the communication strategies of human-rights-abusing regimes.
+</details>
+
+<b>Angel M. Villegas-Cruz</b>. 2023. [“Nation Branding and COVID-19: An Empirical Investigation of Self-Reports of Medical Donations in Chinese Digital Diplomacy.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/COVID_19.pdf) (R&R <i>Journal of East Asian Studies</i>)
+
+<details>
+<summary>Abstract</summary>
+This research examines how Beijing uses social media to publicize donations and engage in nation branding as it responds to the global backlash sparked by COVID-19. It argues that self-reports of medical donations aim to enhance China’s national brand, and therefore, reports about donations are expected to target countries harder hit by the virus. To test its claims, the research analyzes over 55,000 tweets published by Chinese diplomatic missions. The results show —controlled for Chinese donation exports— a positive and significant relationship between self-reports of medical donations and the host’s spread of COVID-19. Conversely, political or economic partners tend not to be mentioned as recipients. A comparison of government (CCP, ministries, etc.) and non-government donors (immigrants, firms, etc.) shows that only tweets about government donors are positively correlated with the spread of the virus. This research advances our knowledge of Chinese diplomats’ online political behavior.
+</details>
+
 ## Digital technologies and politics
 
 Kevin Munger, <b>Angel M. Villegas-Cruz</b>, Jorge Gallego, and Mateo Vásquez-Cortés. 2023. [“‘Reenviado Muchas Veces’: How Platform Warnings Affect WhatsApp Users in Mexico and Colombia.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/DigLitFB.pdf) (R&R <i>Political Communication</i>)
@@ -45,22 +62,6 @@ Digital literacy affects how people use the internet. However, we argue that the
 <details>
 <summary>Abstract</summary>
 The use of social media in public diplomacy, or digital diplomacy, can be a tool for low-level information warfare to shape public opinion and serve political interests. Despite the focus of existing literature on great powers, African MFAs have embraced the digital revolution. This article traces the emergence of African digital diplomacy by exploring its online infrastructure, including its presence, determinants, bot followers, and more, through cross-platform and cross-country comparisons. It employs a quantitative descriptive approach to analyze an original dataset of all African MFAs on social media. Findings reveal that African MFAs are more active on Twitter despite having a larger presence on Facebook. The key determinants of African digital diplomacy are a large population, English as an official language, democratic governance, and widespread internet access. Furthermore, 38% of Twitter followers in African digital diplomacy are bots, with African MFAs in democracies having more bots than those in non-democracies. This research has implications for diplomatic communications in Africa and beyond.
-</details>
-
-## Chinese foreign policy
-
-<b>Angel M. Villegas-Cruz</b>. 2023. [“Communicating state repression to the international community: A Case Study of How Chinese Diplomats Frame their Actions in Xinjiang.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Xinjiang.pdf) (R&R <i>Foreign Policy Analysis</i>)
-
-<details>
-<summary>Abstract</summary>
-Regimes and their proxies seek to legitimize overt state repression abroad to avoid economic and reputational costs. Yet, few scholars have studied the international dimension of repression image management. I examine how countries communicate their repressive actions to the international community depending on the audience. Framing repression as a legitimate response to a credible threat (threat strategy) is more likely when communicating with countries facing higher levels of domestic threat. But due to in-group favoritism, when addressing in-group audiences of the repressed, governments are more likely to frame repression as necessary to protect the repressed (benevolent rule strategy). To test these claims, I collect 88,011 tweets about activities in Xinjiang published by 88 Chinese diplomatic accounts from 2014 to 2020. The results suggest that regimes change their repression image management strategies depending on the audience. Chinese government accounts in countries with higher levels of domestic conflict are more likely to use the threat strategy than those in countries with lower levels of conflict, while those in countries with a similar in-group to Xinjiang (Muslim countries) are more likely to use the benevolent rule strategy than those in out-group states. This expands our understanding of the communication strategies of human-rights-abusing regimes.
-</details>
-
-<b>Angel M. Villegas-Cruz</b>. 2023. [“Nation Branding and COVID-19: An Empirical Investigation of Self-Reports of Medical Donations in Chinese Digital Diplomacy.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/COVID_19.pdf) (Under Review)
-
-<details>
-<summary>Abstract</summary>
-This research examines how Beijing uses social media to publicize donations and engage in nation branding as it responds to the global backlash sparked by COVID-19. It argues that self-reports of medical donations aim to enhance China’s national brand, and therefore, reports about donations are expected to target countries harder hit by the virus. To test its claims, the research analyzes over 55,000 tweets published by Chinese diplomatic missions. The results show —controlled for Chinese donation exports— a positive and significant relationship between self-reports of medical donations and the host’s spread of COVID-19. Conversely, political or economic partners tend not to be mentioned as recipients. A comparison of government (CCP, ministries, etc.) and non-government donors (immigrants, firms, etc.) shows that only tweets about government donors are positively correlated with the spread of the virus. This research advances our knowledge of Chinese diplomats’ online political behavior.
 </details>
 
 ## U.S.-China trade war
