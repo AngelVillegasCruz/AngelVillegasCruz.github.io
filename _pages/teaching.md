@@ -14,10 +14,12 @@ I am eager to expand my teaching portfolio. In addition to introductory courses 
 ## Instructor
 
 - Instructor of Record for <b>PLSC 309: Quantitative Political Analysis</b> (Spring 2024)
-  - Taught for Penn State World Campus [Syllabus](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/PLSC%20309%20Spring%202024.pdf)
+  - Taught for Penn State World Campus
+  - [Syllabus](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/PLSC%20309%20Spring%202024.pdf)
 
 - Instructor of Record for <b>PLSC 14: Introduction to International Relations</b> (Summer 2023)
-  - Taught for Penn State University Park [Syllabus](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/PLSC%309%20Summer%202023.pdf)
+  - Taught for Penn State University Park
+  - [Syllabus](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/PLSC%309%20Summer%202023.pdf)
 
 - I have also prepared a syllabus for an upper-level undergraduate course in Chinese Foreign Policy
   - [Syllabus](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Chinese%20Foreign%20Policy%20Syllabus%2C%20VillegasCruz.pdf)
