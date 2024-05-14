@@ -15,7 +15,7 @@ I examine how economic ties between host and guest countries affect the emotiona
 </details>
 
 ### Chapter 2
-<b>Angel M. Villegas-Cruz</b>. “Public Diplomacy and Social Media: Testing the Effectiveness of China’s Wolf Warrior Diplomacy.”
+<b>Angel M. Villegas-Cruz</b>. “Public Diplomacy and Social Media: Testing the Effectiveness of China’s Wolf Warrior Diplomacy.” (Under Review)
 
 <details>
 <summary>Abstract</summary>
