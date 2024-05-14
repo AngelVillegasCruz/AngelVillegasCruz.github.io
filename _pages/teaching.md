@@ -3,18 +3,21 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-I have served as the instructor of record for an undergraduate course in international relations and have given guest lectures in other courses on topics, such as Chinese politics, quantitative methods, international political economy, and text-as-data methods. Additionally, I have worked as a teaching assistant for multiple courses.
+I have served as the instructor of record for an undergraduate course in international relations and a course on quantitative social science research methods. Additionally, I have given guest lectures on topics such as Chinese politics, computational social science, international political economy, and text-as-data methods. I have also worked as a teaching assistant for multiple courses.
 
-I am eager to expand my teaching portfolio. In addition to an introductory course in international relations, I am equipped to offer the following courses:
+I am eager to expand my teaching portfolio. In addition to introductory courses in international relations and quantitative methods, I am equipped to offer courses related to:
 
-  - <b>Primary substantive expertise</b>: Public Diplomacy, Chinese Foreign Policy, Social Media and Politics, U.S.-China Relations, International Political Economy, Introduction to Comparative Politics
+  - <b>Primary substantive expertise</b>: Chinese Foreign Policy, Diplomacy, Social Media and Politics, U.S.-China Relations, International Political Economy, Introduction to Comparative Politics
 
   - <b>Methodological expertise</b>: Quantitative Political Analysis, Text-as-Data Methods, Survey Design and Analysis, Digital Humanities
 
 ## Instructor
 
+- Instructor of Record for <b>PLSC 309: Quantitative Political Analysis</b> (Spring 2024)
+  - Taught for Penn State World Campus [Syllabus](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/PLSC%20309%20Spring%202024.pdf)
+
 - Instructor of Record for <b>PLSC 14: Introduction to International Relations</b> (Summer 2023)
-  - [Syllabus](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/PLSC%2014%20Summer%202023.pdf)
+  - Taught for Penn State University Park [Syllabus](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/PLSC%309%20Summer%202023.pdf)
 
 - I have also prepared a syllabus for an upper-level undergraduate course in Chinese Foreign Policy
   - [Syllabus](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Chinese%20Foreign%20Policy%20Syllabus%2C%20VillegasCruz.pdf)
