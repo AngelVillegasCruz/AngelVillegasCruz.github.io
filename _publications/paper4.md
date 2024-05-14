@@ -1,5 +1,5 @@
 ---
-title: “‘Reenviado Muchas Veces’: How WhatsApp Users in Mexico and Colombia Understand Political Information.”
+title: "‘Reenviado Muchas Veces’: How WhatsApp Users in Mexico and Colombia Understand Political Information."
 collection: publications
 permalink: /publication/paper4
 excerpt: #''

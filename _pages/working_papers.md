@@ -7,7 +7,7 @@ author_profile: true
 
 # Dissertation
 ### Chapter 1
-<b>Angel M. Villegas-Cruz</b>. 2023. [“The Effect of Economic Ties on Digital Diplomacy: A Sentiment Analysis of the Twitter Accounts of Chinese Diplomatic Missions.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Chapter1.pdf) (Under Review)
+<b>Angel M. Villegas-Cruz</b>. [“The Effect of Economic Ties on Digital Diplomacy: A Sentiment Analysis of the Twitter Accounts of Chinese Diplomatic Missions.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Chapter1.pdf) (R&R <i>The Hague Journal of Diplomacy</i>)
 
 <details>
 <summary>Abstract</summary>
@@ -15,15 +15,15 @@ I examine how economic ties between host and guest countries affect the emotiona
 </details>
 
 ### Chapter 2
-<b>Angel M. Villegas-Cruz</b>. 2023. “Public Diplomacy and Social Media: Testing the Effectiveness of China’s Wolf Warrior Diplomacy.”
+<b>Angel M. Villegas-Cruz</b>. “Public Diplomacy and Social Media: Testing the Effectiveness of China’s Wolf Warrior Diplomacy.”
 
 <details>
 <summary>Abstract</summary>
-In the second chapter, I conduct a survey experiment exposing American internet users to Chinese diplomatic tweets. To date, there has been surprisingly little research on the influence of Chinese digital diplomacy. My findings show that it does not significantly alter general perceptions of China. However, it has a strong backlash effect in terms of increasing support for anti-Chinese policies. Exposure to Chinese diplomatic tweets with competing information, verbal aggressiveness, and even, to a lesser extent, a friendly tone increases support for tougher policies toward Beijing, such as recognizing Taiwan as an independent country. Subgroup analyses also reveal that the effect of exposure to Chinese diplomatic tweets also varies based on participants’ social media use, education, ideology, and race. This finding is quite novel, as previous studies on the influence of online propaganda or public diplomacy have assumed a uniform effect among individuals.
+Can China’s online diplomacy influence foreign public opinion? This research theorizes on the impact of commonly used strategies in Chinese external communications, namely messages with a friendly tone, competing information, and verbal aggression. The study then conducts a survey experiment exposing American internet users to Chinese diplomatic tweets carrying these messages. The findings show that Chinese online diplomacy does not significantly alter general perceptions of China but has a strong backlash effect. Exposure to any Chinese diplomatic tweet with competing information, verbal aggressiveness, and, to a lesser extent, a friendly tone increases support for tougher policies toward Beijing. Respondents are particularly in favor of imposing economic sanctions on China, defending Taiwan from Chinese invasion, and recognizing Taiwan as an independent country. A subgroup analysis reveals diverse treatment effects based on participants’ social media use and education, but not partisan identity. These findings have implications for the future of Chinese external communications and U.S.-China relations.
 </details>
 
 ### Chapter 3
-<b>Angel M. Villegas-Cruz</b>. 2023. “An unusual application of Chinese digital diplomacy: Reflecting diplomats’ career aspirations.”
+<b>Angel M. Villegas-Cruz</b>. “The Diplomatic Elite in Public Diplomacy: How Individual-Level Factors Impact China’s External Communications in the Digital Era.”
 
 <details>
 <summary>Abstract</summary>
@@ -34,46 +34,46 @@ In the final chapter, I explore whether Chinese diplomats’ personal background
 
 ## Chinese foreign policy
 
-<b>Angel M. Villegas-Cruz</b>. 2023. [“Communicating state repression to the international community: A Case Study of How Chinese Diplomats Frame their Actions in Xinjiang.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Xinjiang.pdf) (R&R <i>Foreign Policy Analysis</i>)
+<b>Angel M. Villegas-Cruz</b>. [“Communicating state repression to the international community: A Case Study of How Chinese Diplomats Frame their Actions in Xinjiang.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Xinjiang.pdf) (R&R <i>Foreign Policy Analysis</i>)
 
 <details>
 <summary>Abstract</summary>
 Regimes and their proxies seek to legitimize overt state repression abroad to avoid economic and reputational costs. Yet, few scholars have studied the international dimension of repression image management. I examine how countries communicate their repressive actions to the international community depending on the audience. Framing repression as a legitimate response to a credible threat (threat strategy) is more likely when communicating with countries facing higher levels of domestic threat. But due to in-group favoritism, when addressing in-group audiences of the repressed, governments are more likely to frame repression as necessary to protect the repressed (benevolent rule strategy). To test these claims, I collect 88,011 tweets about activities in Xinjiang published by 88 Chinese diplomatic accounts from 2014 to 2020. The results suggest that regimes change their repression image management strategies depending on the audience. Chinese government accounts in countries with higher levels of domestic conflict are more likely to use the threat strategy than those in countries with lower levels of conflict, while those in countries with a similar in-group to Xinjiang (Muslim countries) are more likely to use the benevolent rule strategy than those in out-group states. This expands our understanding of the communication strategies of human-rights-abusing regimes.
 </details>
 
-<b>Angel M. Villegas-Cruz</b>. 2023. [“Nation Branding and COVID-19: An Empirical Investigation of Self-Reports of Medical Donations in Chinese Digital Diplomacy.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/COVID_19.pdf) (R&R <i>Journal of East Asian Studies</i>)
+<b>Angel M. Villegas-Cruz</b>. [“Nation Branding and COVID-19: An Empirical Investigation of Self-Reports of Medical Donations in Chinese Digital Diplomacy.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/COVID_19.pdf) (R&R <i>Journal of East Asian Studies</i>)
 
 <details>
 <summary>Abstract</summary>
 This research examines how Beijing uses social media to publicize donations and engage in nation branding as it responds to the global backlash sparked by COVID-19. It argues that self-reports of medical donations aim to enhance China’s national brand, and therefore, reports about donations are expected to target countries harder hit by the virus. To test its claims, the research analyzes over 55,000 tweets published by Chinese diplomatic missions. The results show —controlled for Chinese donation exports— a positive and significant relationship between self-reports of medical donations and the host’s spread of COVID-19. Conversely, political or economic partners tend not to be mentioned as recipients. A comparison of government (CCP, ministries, etc.) and non-government donors (immigrants, firms, etc.) shows that only tweets about government donors are positively correlated with the spread of the virus. This research advances our knowledge of Chinese diplomats’ online political behavior.
 </details>
 
-## Digital technologies and politics
+## Digital technologies and international politics
 
-Kevin Munger, <b>Angel M. Villegas-Cruz</b>, Jorge Gallego, and Mateo Vásquez-Cortés. 2023. [“‘Reenviado Muchas Veces’: How Platform Warnings Affect WhatsApp Users in Mexico and Colombia.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/DigLitFB.pdf) (R&R <i>Political Communication</i>)
+<b>Angel M. Villegas-Cruz</b>. “Online Infrastructure and Social Media Affordances: A Quantitative Description of African MFAs' Diplomatic Strategies on Social Media.” (R&R <i>South African Journal of International Affairs</i>)
 
 <details>
 <summary>Abstract</summary>
-Digital literacy affects how people use the internet. However, we argue that the concept of ”digital literacy” cannot usefully be applied to all internet users; there is simply too much heterogeneity across devices, platforms, and social contexts. We conduct surveys in Mexico and Colombia to understand how these people use the internet. We find that WhatsApp is by far the dominant platform across all sectors of society. In contrast to evidence from the US, we find that education is a better predictor of two measures of digital literacy than is age. We then conduct a survey experiment to test how people understand news shared on WhatsApp. We find that the inclusion of a link to source material increases respondents' trust in a message shared on WhatsApp, but that the platform-supplied note that a message has been shared many times has no such effect.
+The use of social media in public diplomacy, or digital diplomacy, can be a tool for low-level information warfare to shape public opinion and serve political interests. Despite the focus of existing literature on Western powers, African MFAs have embraced the digital revolution. This article traces the emergence of African digital diplomacy by exploring its online infrastructure, including its presence, determinants, followers, and more, through cross-platform and cross-country comparisons. It employs a quantitative descriptive approach to analyze an original dataset of all African MFAs on social media. Findings reveal that African MFAs are more active on Twitter despite having a larger presence on Facebook. The key determinants of African digital diplomacy are a large population, English as an official language, democratic governance, and widespread internet access. This research has implications for diplomatic communications in Africa and beyond.
 </details>
 
-<b>Angel M. Villegas-Cruz</b>. 2023. “Online Infrastructure and Bot Followers: A Quantitative Description of African MFAs' Diplomatic Strategies on Social Media.” (Under Review)
+<b>Angel M. Villegas-Cruz</b>, María Montemayor de Teresa, Antonio Alejo, and Astrid de la Torre Lüderitz. “Public Diplomacy <i>en Español</i>: An Analysis of Spanish-language Public Diplomacy Scholarship.” (R&R <i> Journal of Public Diplomacy</i>)
 
 <details>
 <summary>Abstract</summary>
-The use of social media in public diplomacy, or digital diplomacy, can be a tool for low-level information warfare to shape public opinion and serve political interests. Despite the focus of existing literature on great powers, African MFAs have embraced the digital revolution. This article traces the emergence of African digital diplomacy by exploring its online infrastructure, including its presence, determinants, bot followers, and more, through cross-platform and cross-country comparisons. It employs a quantitative descriptive approach to analyze an original dataset of all African MFAs on social media. Findings reveal that African MFAs are more active on Twitter despite having a larger presence on Facebook. The key determinants of African digital diplomacy are a large population, English as an official language, democratic governance, and widespread internet access. Furthermore, 38% of Twitter followers in African digital diplomacy are bots, with African MFAs in democracies having more bots than those in non-democracies. This research has implications for diplomatic communications in Africa and beyond.
+Public diplomacy scholarship typically centers on English-language works, yet significant research on public diplomacy and related topics, like soft power, is emerging in other languages. This study uses computational text analysis to examine Spanish-language peer-reviewed articles on public diplomacy from 2001 to 2023. The findings reveal interesting patterns in Spanish-language public diplomacy scholarship, including theoretical focuses, geographic areas of study, and gendered citation patterns. Spanish-language public diplomacy scholarship is largely dominated by scholars from Spain. Mexico, however, stands out as the most frequently studied geographic area, followed by Spain, the United States, and, to a lesser extent, Colombia and Argentina. The results underscore a strong focus on concepts like image, communication, and public opinion, reflecting crucial concerns in the foreign policy of Spanish-speaking countries. Finally, the findings reveal a gender imbalance, with men comprising the majority of authors, and a statistical analysis indicates that works by women receive fewer citations than those by men. This essay is a first step in understanding key trends and gendered patterns in public diplomacy, aligning with a broader movement striving to decolonize academic literature and prioritize the publication of articles focusing on under-represented people and geographic areas within the field.
 </details>
 
 ## U.S.-China trade war
 
-Boliang Zhu, Aubrey Waddick, Yilang Feng, and <b>Angel M. Villegas-Cruz</b>. 2023. [“Firms Caught in Crossfire: International Stakes and Domestic Politics in Corporate Positioning on De-Globalization.”](https://s18798.pcdn.co/gripe/wp-content/uploads/sites/18249/2021/07/TradeWar_072021.pdf)
+Boliang Zhu, Aubrey Waddick, Yilang Feng, and <b>Angel M. Villegas-Cruz</b>. [“Firms Caught in Crossfire: International Stakes and Domestic Politics in Corporate Positioning on De-Globalization.”](https://s18798.pcdn.co/gripe/wp-content/uploads/sites/18249/2021/07/TradeWar_072021.pdf)
 
 <details>
 <summary>Abstract</summary>
 There has been a rise of protectionism and a move toward de-globalization across the globe. It is puzzling why businesses have not been more vocal opponents of protectionist policies. We examine U.S. firms’ public position taking in the U.S.-China trade war. After collecting a comprehensive dataset of firms’ public positions on the trade war, we show only 1.73 percent of large and very large U.S. firms have openly voiced opposition. One the one hand, we find larger and more productive firms, multinationals, and those more integrated in global supply chains are significantly more likely to openly oppose the imposition of tariffs. On the other hand, firms located in Republican districts are significantly less likely to do so. Our study is among the first to document firms’ positioning in a high-profile trade war. We demonstrate a critical role of domestic politics in silencing firms’ public opposition, which has important implications for globalization.
 </details>
 
-Boliang Zhu, <b>Angel M. Villegas-Cruz</b>, and Aubrey Waddick. 2023. “Liberalization for Sale: The Politics of Tariff Exclusions.”
+Boliang Zhu, <b>Angel M. Villegas-Cruz</b>, and Aubrey Waddick. “Liberalization for Sale: The Politics of Tariff Exclusions.”
 
 <details>
 <summary>Abstract</summary>
@@ -82,7 +82,7 @@ We propose and test an argument of liberalization for sale, akin to “protectio
 
 ## Diversity, Equity, and Inclusion
 
-<b>Angel M. Villegas-Cruz</b>. 2022. [“Who Is Writing and What Are They writing About? Text Analysis and Publication Patterns in <i>The Journal of Asian Studies</i>, 2000-2020.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Figures_CAS/Text_analysis_and_JAS_VIllegas_Cruz.pdf)
+<b>Angel M. Villegas-Cruz</b>. [“Who Is Writing and What Are They writing About? Text Analysis and Publication Patterns in <i>The Journal of Asian Studies</i>, 2000-2020.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Figures_CAS/Text_analysis_and_JAS_VIllegas_Cruz.pdf)
 
 <details>
 <summary>Abstract</summary>
