@@ -1,7 +1,7 @@
 ---
 title: "China and Its Small Neighbors: The Political Economy of Asymmetry, Vulnerability, and Hedging by Sung Chull Kim"
 collection: publications
-permalink: /publication/paper4
+permalink: /publication/paper5
 excerpt: #''
 date: 2024-04-26
 venue: 'Pacific Affairs'

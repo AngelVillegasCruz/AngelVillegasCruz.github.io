@@ -14,7 +14,7 @@ My substantive research interests include international affairs, public diplomac
 
 Moreover, I am proficient in advanced statistical techniques such as data mining, experimental design, panel data analysis, regression analysis, sentiment analysis, text-as-data methods, and time series analysis. Using R, Stata, Python, and other software, I have experience in cleaning, manipulating, sub-setting, and visualizing data. I excel at creating customized visualizations, graphs, and tables to effectively communicate significant research findings.
 
-My research has been published, or is forthcoming, in the <i>Critical Asian Studies Commentary Board, Journal of East Asian Studies, Pacific Affairs, Political Communication,</i> and <i>Revista [IN]Genios</i>.
+My research has been published, or is forthcoming, in the <i>Critical Asian Studies Commentary Board, Journal of East Asian Studies, Journal of Public Diplomacy, Pacific Affairs, Political Communication, Revista [IN]Genios</i> and <i>The Hague Journal of Diplomacy</i>.
 
 Additionally, I have experience teaching undergraduate courses in international relations and quantitative social science research methods, and I have worked as a teaching assistant for multiple courses.
 
