@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-I have served as the instructor of record for an undergraduate course in international relations and a course on quantitative social science research methods. Additionally, I have given guest lectures on topics such as Chinese politics, computational social science, international political economy, and text-as-data methods. I have also worked as a teaching assistant for multiple courses.
+I have served as the instructor of record for an undergraduate course in international relations and a course on quantitative social science research methods. As a result of my performance as an instructor, I won the <i>2023-24 Robert S. Friedman Award for Excellence in Teaching</i>. Additionally, I have given guest lectures on topics such as Chinese politics, computational social science, international political economy, and text-as-data methods. I have also worked as a teaching assistant for multiple courses.
 
 I am eager to expand my teaching portfolio. In addition to introductory courses in international relations and quantitative methods, I am equipped to offer courses related to:
 
