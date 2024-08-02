@@ -4,7 +4,7 @@ title: "Selected Working Papers"
 permalink: /working_papers/
 author_profile: true
 ---
-<br />
+<br>
 # Chinese politics and foreign policy:
 
 <b>Angel M. Villegas-Cruz</b>. [“Nation Branding and COVID-19: An Empirical Investigation of Self-Reports of Medical Donations in Chinese Digital Diplomacy.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/COVID_19.pdf) (Accepted <i>Journal of East Asian Studies</i>)
@@ -35,7 +35,7 @@ Can China’s online diplomacy influence foreign public opinion? This research t
 I explore whether Chinese diplomats’ personal backgrounds influence the way they use social media. I argue that diplomats with a non-traditional background (e.g., did not graduate from an elite diplomatic school) have a higher incentive to burnish their reputation at home through the use of digital diplomacy. To investigate this, I scrape tweets by Chinese diplomats and combine them with an original dataset of biographical information about the Chinese diplomatic elite, which I collected with the help of an undergraduate research assistant. The dataset contains information on approximately 500 high-level Chinese diplomatic elites, including Ministers, Vice-Ministers, Director-Generals, Deputy Director-Generals, Ambassadors, and Consuls. I collect information such as age, birthplace, gender, ethnicity, educational background, professional experience, language skills, etc. Through statistical analysis, I subsequently examine which individual-level factors influence their online political behavior.
 </details>
 
-<br />
+<br>
 # Digital technologies and international politics:
 
 <b>Angel M. Villegas-Cruz</b>, María Montemayor de Teresa, Antonio Alejo, and Astrid de la Torre Lüderitz. “Public Diplomacy <i>en Español</i>: An Analysis of Spanish-language Public Diplomacy Scholarship.” (Accepted <i> Journal of Public Diplomacy</i>)
@@ -52,7 +52,7 @@ Public diplomacy scholarship typically centers on English-language works, yet si
 The use of social media in public diplomacy, or digital diplomacy, can be a tool for low-level information warfare to shape public opinion and serve political interests. Despite the focus of existing literature on Western powers, African MFAs have embraced the digital revolution. This article traces the emergence of African digital diplomacy by exploring its online infrastructure, including its presence, determinants, followers, and more, through cross-platform and cross-country comparisons. It employs a quantitative descriptive approach to analyze an original dataset of all African MFAs on social media. Findings reveal that African MFAs are more active on Twitter despite having a larger presence on Facebook. The key determinants of African digital diplomacy are a large population, English as an official language, democratic governance, and widespread internet access. This research has implications for diplomatic communications in Africa and beyond.
 </details>
 
-<br />
+<br>
 # U.S.-China trade war:
 
 Boliang Zhu, Aubrey Waddick, Yilang Feng, and <b>Angel M. Villegas-Cruz</b>. [“Firms Caught in Crossfire: International Stakes and Domestic Politics in Corporate Positioning on De-Globalization.”](https://s18798.pcdn.co/gripe/wp-content/uploads/sites/18249/2021/07/TradeWar_072021.pdf)
@@ -69,7 +69,7 @@ Boliang Zhu, <b>Angel M. Villegas-Cruz</b>, and Aubrey Waddick. “Liberalizatio
 We propose and test an argument of liberalization for sale, akin to “protection for sale” (Grossman and Helpman 1994). In a new world where protectionism is the status quo, trade liberalization becomes a highly valuable private benefit, and it is targetable to specific constituents for political gains. Empirically, we examine the tariff exclusion process in the high-profile U.S.-China trade war. We build a novel data set of firms’ tariff exclusion requests and exemptions for the universe of large and very large U.S. firms. We show that firms’ decisions of submitting tariff exclusion requests are both economically and politically motivated. Yet, the Office of the U.S. Trade Representative’s tariff exclusion process is highly politicized and its decision of granting a tariff exclusion is primarily politically driven. Tariff exclusions are used to shore up political support in pivotal swing districts and to reward firms that are politically connected to the president’s co-partisans.
 </details>
 
-<br />
+<br>
 # Diversity, Equity, and Inclusion:
 
 <b>Angel M. Villegas-Cruz</b>. [“Who Is Writing and What Are They writing About? Text Analysis and Publication Patterns in <i>The Journal of Asian Studies</i>, 2000-2020.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Figures_CAS/Text_analysis_and_JAS_VIllegas_Cruz.pdf)
