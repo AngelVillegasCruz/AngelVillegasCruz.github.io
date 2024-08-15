@@ -1,5 +1,5 @@
 ---
-title: "The Effect of Economic Ties on Digital Diplomacy: A Sentiment Analysis of the Twitter Accounts of Chinese Diplomatic Missions."
+title: "The Effect of Economic Ties on Digital Diplomacy: A Sentiment Analysis of the Twitter Accounts of Chinese Diplomatic Missions"
 collection: publications
 permalink: /publication/paper6
 excerpt: #''

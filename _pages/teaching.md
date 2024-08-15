@@ -26,6 +26,9 @@ I am eager to expand my teaching portfolio. In addition to introductory courses 
 
 ## Teaching Assistant
 
+- TA for Professor Amy Linch’s <b>PLSC 7N: Contemporary Political Ideologies</b> (Fall 2024)
+  - Holding office hours, grading, and other regular TA tasks
+
 - TA for Professor Jeremy Ladd’s <b>PLSC 309: Quantitative Political Analysis</b> (Fall 2021)
   - Holding office hours, grading, and other regular TA tasks
 
