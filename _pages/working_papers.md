@@ -14,7 +14,7 @@ author_profile: true
 This research examines how Beijing uses social media to publicize donations and engage in nation branding as it responds to the global backlash sparked by COVID-19. It argues that self-reports of medical donations aim to enhance China’s national brand, and therefore, reports about donations are expected to target countries harder hit by the virus. To test its claims, the research analyzes over 55,000 tweets published by Chinese diplomatic missions. The results show —controlled for Chinese donation exports— a positive and significant relationship between self-reports of medical donations and the host’s spread of COVID-19. Conversely, political or economic partners tend not to be mentioned as recipients. A comparison of government (CCP, ministries, etc.) and non-government donors (immigrants, firms, etc.) shows that only tweets about government donors are positively correlated with the spread of the virus. This research advances our knowledge of Chinese diplomats’ online political behavior.
 </details>
 
-<b>Angel M. Villegas-Cruz</b>. [“Communicating state repression to the international community: A Case Study of How Chinese Diplomats Frame their Actions in Xinjiang.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Xinjiang.pdf) (R&R <i>Foreign Policy Analysis</i>)
+<b>Angel M. Villegas-Cruz</b>. [“Communicating state repression to the international community: A Case Study of How Chinese Diplomats Frame their Actions in Xinjiang.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Xinjiang.pdf) (Accepted <i>Foreign Policy Analysis</i>)
 
 <details>
 <summary>Abstract</summary>

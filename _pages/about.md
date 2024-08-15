@@ -14,7 +14,7 @@ My dissertation examines how countries use social media to advance their foreign
 
 Moreover, I am proficient in advanced statistical techniques such as data mining, experimental design, panel data analysis, regression analysis, sentiment analysis, text-as-data methods, and time series analysis. Using R, Stata, Python, and other software, I have experience in cleaning, manipulating, sub-setting, and visualizing data.
 
-My research has been published, or is forthcoming, in the <i> Journal of East Asian Studies, Journal of Public Diplomacy, Pacific Affairs, Political Communication, Revista [IN]Genios, The Hague Journal of Diplomacy</i>, among others.
+My research has been published, or is forthcoming, in <i> Foreign Policy Analysis, Journal of East Asian Studies, Journal of Public Diplomacy, Political Communication, Revista [IN]Genios, The Hague Journal of Diplomacy</i>, among others.
 
 I also have experience teaching undergraduate courses in international relations and quantitative social science research methods, and I have worked as a teaching assistant for multiple courses. My teaching interests are closely related to my research, and I believe they mutually benefit each other.
 
