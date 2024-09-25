@@ -53,7 +53,6 @@ Lucas Winter, Jason Warner, and <b>Angel M. Villegas-Cruz</b>. 2024. “Instrume
 
 # Book Reviews:
 <details>
-<summary># Book Reviews:</summary>
 
 <b>Angel M. Villegas-Cruz</b>. 2024. “China and Its Small Neighbors: The Political Economy of Asymmetry, Vulnerability, and Hedging by Sung Chull Kim.” <i>Pacific Affairs</i> 97 (3).
 
