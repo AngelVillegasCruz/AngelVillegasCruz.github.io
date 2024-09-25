@@ -5,8 +5,8 @@ title: "Research"
 
 # Peer-reviewed Publications:
 
-<b>Angel M. Villegas-Cruz</b>. 2024. “The Effect of Economic Ties on Digital Diplomacy: A Sentiment Analysis of the Twitter Accounts of Chinese Diplomatic Missions.” <i>The Hague Journal of Diplomacy</i> 1-35. [https://doi.org/10.1163/1871191x-bja10194](https://doi.org/10.1163/1871191x-bja10194).
----
+###### <b>Angel M. Villegas-Cruz</b>. 2024. “The Effect of Economic Ties on Digital Diplomacy: A Sentiment Analysis of the Twitter Accounts of Chinese Diplomatic Missions.” <i>The Hague Journal of Diplomacy</i> 1-35. [https://doi.org/10.1163/1871191x-bja10194](https://doi.org/10.1163/1871191x-bja10194).
+
 [Read the paper here](https://doi.org/10.1163/1871191x-bja10194)
 
 <details>
@@ -15,14 +15,13 @@ The article examines how economic ties between host and guest countries affect t
 </details>
 
 # Editor-reviewed Publications:
-Lucas Winter, Jason Warner, and <b>Angel M. Villegas-Cruz</b>. 2024. “Instruments of Russian Military Influence in
+###### Lucas Winter, Jason Warner, and <b>Angel M. Villegas-Cruz</b>. 2024. “Instruments of Russian Military Influence in
 Argentina.” <i>M-DIME Project</i>. U.S. Army Foreign Military Studies Office.
----
+
 [Read the paper here](https://hg2wordpressfmsostor01.z2.web.core.usgovcloudapi.net/M-DIME/2024-08/TRADOCG2_FMSO_2024AUG08_MDIME_RUS_Argentina.pdf)
 
 # Book Reviews:
 
-<b>Angel M. Villegas-Cruz</b>. 2024. “China and Its Small Neighbors: The Political Economy of Asymmetry, Vulnerability, and Hedging by Sung Chull Kim.” <i>Pacific Affairs</i> 97 (3).
+###### <b>Angel M. Villegas-Cruz</b>. 2024. “China and Its Small Neighbors: The Political Economy of Asymmetry, Vulnerability, and Hedging by Sung Chull Kim.” <i>Pacific Affairs</i> 97 (3).
 
----
 [Read the paper here](https://pacificaffairs.ubc.ca/book-reviews/china-and-its-small-neighbors-the-political-economy-of-asymmetry-vulnerability-and-hedging-by-sung-chull-kim/)
