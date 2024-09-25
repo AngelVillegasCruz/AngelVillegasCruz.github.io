@@ -3,7 +3,7 @@ permalink: /research/
 title: " "
 ---
 
-# Peer-reviewed Publications:
+# Peer-reviewed Articles:
 
 <b>Angel M. Villegas-Cruz</b>. 2024. “The Effect of Economic Ties on Digital Diplomacy: A Sentiment Analysis of the Twitter Accounts of Chinese Diplomatic Missions.” <i>The Hague Journal of Diplomacy</i> 1-35. https://doi.org/10.1163/1871191x-bja10194.
 
