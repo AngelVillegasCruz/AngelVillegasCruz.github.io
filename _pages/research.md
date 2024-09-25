@@ -48,7 +48,6 @@ Lucas Winter, Jason Warner, and <b>Angel M. Villegas-Cruz</b>. 2024. “Instrume
 <b>Angel M. Villegas-Cruz</b>, “Male, U.S. Full History Professor, and China scholar: The recipe to get published in The Journal of Asian Studies, 2000-2020,” criticalasianstudies.org Commentary Board, November 15, 2022, https://doi.org/10.52698/KSEJ3511.
 
 [Read the paper here](https://criticalasianstudies.org/commentary/2022/11/3/notes-from-the-field-angel-m-villegas-cruz-male-us-full-history-professor-and-china-scholar-the-recipe-to-get-published-in-the-journal-of-asian-studies-2000-2020)
-
 <br />
 
 # Book Reviews:
