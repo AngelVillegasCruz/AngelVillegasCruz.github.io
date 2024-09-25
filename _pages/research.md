@@ -23,7 +23,7 @@ Kevin Munger, <b>Angel M. Villegas-Cruz</b>, Jorge Gallego, and Mateo Vásquez-C
 <summary>Abstract</summary>
 Digital literacy affects how people use the internet. However, we argue that the concept of “digital literacy” cannot usefully be applied to all internet users; there is simply too much heterogeneity across devices, platforms, and social contexts. We conduct surveys in Mexico and Colombia to understand how these people use the internet. We find that WhatsApp is by far the dominant platform across all sectors of society. In contrast to evidence from the US, we find that education is a better predictor of two measures of digital literacy than is age. We then conduct a survey experiment to test how people understand news shared on WhatsApp. We find that the inclusion of a link to source material increases respondents’ trust in a message shared on WhatsApp, but that the platform-supplied note that a message has been shared many times has no such effect.
 </details>
-<br />
+
 
 <b>Angel M. Villegas-Cruz</b>. 2014. “El discurso de la Iglesia Protestante en torno a la Segunda Guerra Mundial en la Revista Puerto Rico Evangélico, 1940-1945” [The representation of World War II in the inter-denominational magazine, Puerto Rico Evangelico, 1940-1945]. <i>Revista [IN]Genios</i> 1 (1): 1-11.
 
@@ -48,6 +48,7 @@ Lucas Winter, Jason Warner, and <b>Angel M. Villegas-Cruz</b>. 2024. “Instrume
 <b>Angel M. Villegas-Cruz</b>, “Male, U.S. Full History Professor, and China scholar: The recipe to get published in The Journal of Asian Studies, 2000-2020,” criticalasianstudies.org Commentary Board, November 15, 2022, https://doi.org/10.52698/KSEJ3511.
 
 [Read the paper here](https://criticalasianstudies.org/commentary/2022/11/3/notes-from-the-field-angel-m-villegas-cruz-male-us-full-history-professor-and-china-scholar-the-recipe-to-get-published-in-the-journal-of-asian-studies-2000-2020)
+
 <br />
 
 # Book Reviews:
