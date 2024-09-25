@@ -49,6 +49,7 @@ Lucas Winter, Jason Warner, and <b>Angel M. Villegas-Cruz</b>. 2024. “Instrume
 
 [Read the paper here](https://criticalasianstudies.org/commentary/2022/11/3/notes-from-the-field-angel-m-villegas-cruz-male-us-full-history-professor-and-china-scholar-the-recipe-to-get-published-in-the-journal-of-asian-studies-2000-2020)
 
+<br />
 
 # Book Reviews:
 
