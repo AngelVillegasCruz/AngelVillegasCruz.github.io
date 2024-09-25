@@ -52,12 +52,9 @@ Lucas Winter, Jason Warner, and <b>Angel M. Villegas-Cruz</b>. 2024. “Instrume
 <br />
 
 # Book Reviews:
-<details>
 
 <b>Angel M. Villegas-Cruz</b>. 2024. “China and Its Small Neighbors: The Political Economy of Asymmetry, Vulnerability, and Hedging by Sung Chull Kim.” <i>Pacific Affairs</i> 97 (3).
 
 [Read the paper here](https://pacificaffairs.ubc.ca/book-reviews/china-and-its-small-neighbors-the-political-economy-of-asymmetry-vulnerability-and-hedging-by-sung-chull-kim/)
 
 <b>Angel M. Villegas-Cruz</b>. 2019. “读楼项飞《中国与拉美国家相互依赖模式研究》” [A Study of Sino-Latin American Interdependency Models by Lou Xiangfei]. <i>Journal of BNU Public Administration</i> 7.
-
-</details>
