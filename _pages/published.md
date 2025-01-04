@@ -89,6 +89,8 @@ Lucas Winter, Jason Warner, and <b>Angel M. Villegas-Cruz</b>. 2024. “Instrume
 
 <b>Angel M. Villegas-Cruz</b>. 2019. “读楼项飞《中国与拉美国家相互依赖模式研究》” [A Study of Sino-Latin American Interdependency Models by Lou Xiangfei]. <i>Journal of BNU Public Administration</i> 7.
 
+<br />
+
 # Unpublished Works:
 
 Boliang Zhu, Aubrey Waddick, Yilang Feng, and <b>Angel M. Villegas-Cruz</b>. [“Firms Caught in Crossfire: International Stakes and Domestic Politics in Corporate Positioning on De-Globalization.”](https://s18798.pcdn.co/gripe/wp-content/uploads/sites/18249/2021/07/TradeWar_072021.pdf)
@@ -97,6 +99,7 @@ Boliang Zhu, Aubrey Waddick, Yilang Feng, and <b>Angel M. Villegas-Cruz</b>. [�
 <summary>Abstract</summary>
 There has been a rise of protectionism and a move toward de-globalization across the globe. It is puzzling why businesses have not been more vocal opponents of protectionist policies. We examine U.S. firms’ public position taking in the U.S.-China trade war. After collecting a comprehensive dataset of firms’ public positions on the trade war, we show only 1.73 percent of large and very large U.S. firms have openly voiced opposition. One the one hand, we find larger and more productive firms, multinationals, and those more integrated in global supply chains are significantly more likely to openly oppose the imposition of tariffs. On the other hand, firms located in Republican districts are significantly less likely to do so. Our study is among the first to document firms’ positioning in a high-profile trade war. We demonstrate a critical role of domestic politics in silencing firms’ public opposition, which has important implications for globalization.
 </details>
+<br />
 
 Boliang Zhu, <b>Angel M. Villegas-Cruz</b>, and Aubrey Waddick. “Liberalization for Sale: The Politics of Tariff Exclusions.”
 
@@ -104,8 +107,7 @@ Boliang Zhu, <b>Angel M. Villegas-Cruz</b>, and Aubrey Waddick. “Liberalizatio
 <summary>Abstract</summary>
 We propose and test an argument of liberalization for sale, akin to “protection for sale” (Grossman and Helpman 1994). In a new world where protectionism is the status quo, trade liberalization becomes a highly valuable private benefit, and it is targetable to specific constituents for political gains. Empirically, we examine the tariff exclusion process in the high-profile U.S.-China trade war. We build a novel data set of firms’ tariff exclusion requests and exemptions for the universe of large and very large U.S. firms. We show that firms’ decisions of submitting tariff exclusion requests are both economically and politically motivated. Yet, the Office of the U.S. Trade Representative’s tariff exclusion process is highly politicized and its decision of granting a tariff exclusion is primarily politically driven. Tariff exclusions are used to shore up political support in pivotal swing districts and to reward firms that are politically connected to the president’s co-partisans.
 </details>
-
-<br>
+<br />
 
 <b>Angel M. Villegas-Cruz</b>. [“Who Is Writing and What Are They writing About? Text Analysis and Publication Patterns in <i>The Journal of Asian Studies</i>, 2000-2020.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Figures_CAS/Text_analysis_and_JAS_VIllegas_Cruz.pdf)
 
@@ -113,3 +115,4 @@ We propose and test an argument of liberalization for sale, akin to “protectio
 <summary>Abstract</summary>
 This research examines publication patterns in Asian studies by using <i>The Journal of Asian Studies</i> (JAS) from 2000 to 2020 as a case study. Employing computational text analysis, I collect and analyze data about JAS authors and research articles. The findings reveal interesting patterns, in particular about authors’ gender, academic rank, affiliation, discipline, and geographic area of study. The results show an imbalance in publication rates for men and women in the JAS. The number of male authors is 414 (60%), while the number of female authors is 276 (40%). We also see a significant gender imbalance for female authors in all tenured and tenure-track positions. Furthermore, the analysis shows that historians and China scholars make up the bulk of JAS authors. Historians represent 42% of published authors (288 authors). Mainland China is the most studied geographical area, accounting for 199 (29%) of articles. JAS publication patterns in the 21st century have not been written about elsewhere. This essay is a first step in understanding gendered patterns of publications in Asian studies. It can help Asianists prioritize publishing articles about under-represented authors, disciplines, and geographic areas in the field.
 </details>
+<br />
