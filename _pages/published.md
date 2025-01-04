@@ -35,6 +35,16 @@ This research examines how Beijing uses social media to publicize donations and 
 </details>
 <br />
 
+<b>Angel M. Villegas-Cruz</b>, María Montemayor de Teresa, Antonio Alejo, and Astrid de la Torre Lüderitz. 2024. “Public Diplomacy <i>en Español</i>: An Analysis of Spanish-language Public Diplomacy Scholarship.” <i> Journal of Public Diplomacy</i> 4(1), 25–50. https://doi.org/10.23045/JPD.2024.4.1.003.
+
+[Read the paper here](https://doi.org/10.23045/JPD.2024.4.1.003)
+
+<details>
+<summary>Abstract</summary>
+Public diplomacy scholarship typically centers on English-language works, yet significant research on public diplomacy and related topics, like soft power, is emerging in other languages. This study uses computational text analysis to examine Spanish-language peer-reviewed articles on public diplomacy from 2001 to 2023. The findings reveal interesting patterns in Spanish-language public diplomacy scholarship, including theoretical focuses, geographic areas of study, and gendered citation patterns. Spanish-language public diplomacy scholarship is largely dominated by scholars from Spain. Mexico, however, stands out as the most frequently studied geographic area, followed by Spain, the United States, and, to a lesser extent, Colombia and Argentina. The results underscore a strong focus on concepts like image, communication, and public opinion, reflecting crucial concerns in the foreign policy of Spanish-speaking countries. Finally, the findings reveal a gender imbalance, with men comprising the majority of authors, and a statistical analysis indicates that works by women receive fewer citations than those by men. This essay is a first step in understanding key trends and gendered patterns in public diplomacy, aligning with a broader movement striving to decolonize academic literature and prioritize the publication of articles focusing on under-represented people and geographic areas within the field.
+</details>
+<br />
+
 <b>Angel M. Villegas-Cruz</b>. 2024. “The Effect of Economic Ties on Digital Diplomacy: A Sentiment Analysis of the Twitter Accounts of Chinese Diplomatic Missions.” <i>The Hague Journal of Diplomacy</i> 656-690. https://doi.org/10.1163/1871191x-bja10194.
 
 [Read the paper here](https://doi.org/10.1163/1871191x-bja10194)
@@ -93,7 +103,7 @@ Lucas Winter, Jason Warner, and <b>Angel M. Villegas-Cruz</b>. 2024. “Instrume
 
 # Unpublished Works:
 
-Boliang Zhu, Aubrey Waddick, Yilang Feng, and <b>Angel M. Villegas-Cruz</b>. [“Firms Caught in Crossfire: International Stakes and Domestic Politics in Corporate Positioning on De-Globalization.”](https://s18798.pcdn.co/gripe/wp-content/uploads/sites/18249/2021/07/TradeWar_072021.pdf)
+Boliang Zhu, Aubrey Waddick, Yilang Feng, and <b>Angel M. Villegas-Cruz</b>. [“Firms Caught in Crossfire: International Stakes and Domestic Politics in Corporate Positioning on De-Globalization.”](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/9f6eb41823f9852394c8b65700e082a5f229f96e/files/Zhu%20et%20al.%202021%20Trade%20War%20Paper.pdf)
 
 <details>
 <summary>Abstract</summary>

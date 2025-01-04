@@ -3,8 +3,11 @@ permalink: /contact/
 title: "Contact"
 ---
 
-## Email
-amv5718@psu.edu
+## Personal Email
+[angel.villegas.upr@gmail.com](angel.villegas.upr@gmail.com)
+
+## Professional Email
+[avilleg3@ur.rochester.edu](avilleg3@ur.rochester.edu)
 
 ## Office
 214 Pond Lab
