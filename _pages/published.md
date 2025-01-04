@@ -89,7 +89,7 @@ Lucas Winter, Jason Warner, and <b>Angel M. Villegas-Cruz</b>. 2024. “Instrume
 
 <b>Angel M. Villegas-Cruz</b>. 2019. “读楼项飞《中国与拉美国家相互依赖模式研究》” [A Study of Sino-Latin American Interdependency Models by Lou Xiangfei]. <i>Journal of BNU Public Administration</i> 7.
 
-# Unpublished works:
+# Unpublished Works:
 
 Boliang Zhu, Aubrey Waddick, Yilang Feng, and <b>Angel M. Villegas-Cruz</b>. [“Firms Caught in Crossfire: International Stakes and Domestic Politics in Corporate Positioning on De-Globalization.”](https://s18798.pcdn.co/gripe/wp-content/uploads/sites/18249/2021/07/TradeWar_072021.pdf)
 

@@ -3,13 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-I have served as the instructor of record for an undergraduate course in international relations and a course on quantitative social science research methods. As a result of my performance as an instructor, I won the <i>2023-24 Robert S. Friedman Award for Excellence in Teaching</i>. Additionally, I have given guest lectures on topics such as Chinese politics, computational social science, international political economy, and text-as-data methods. I have also worked as a teaching assistant for multiple courses.
-
-I am eager to expand my teaching portfolio. In addition to introductory courses in international relations and quantitative methods, I am equipped to offer courses related to:
-
-  - <b>Primary substantive expertise</b>: Chinese Foreign Policy, Diplomacy, Social Media and Politics, U.S.-China Relations, International Political Economy, Introduction to Comparative Politics
-
-  - <b>Methodological expertise</b>: Quantitative Political Analysis, Text-as-Data Methods, Survey Design and Analysis, Digital Humanities
+I have served as the instructor of record for an undergraduate course in international relations and a course on quantitative social science research methods. As a result of my performance as an instructor, I won the [<i>2023-24 Robert S. Friedman Award for Excellence in Teaching</i>](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/PLSC%20309%20Spring%202024.pdf). Additionally, I have given guest lectures on topics such as Chinese politics, computational social science, international political economy, and text-as-data methods. I have also worked as a teaching assistant for multiple courses. Finally, I have a [<i>Graduate Student Online Teaching Certificate</i>](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/PLSC%20309%20Spring%202024.pdf) from the Penn State World Campus and completed the [<i>Course in College Teaching</i>](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/PLSC%20309%20Spring%202024.pdf) offered by the Schreyer Institute for Teaching Excellence.
 
 ## Instructor
 
