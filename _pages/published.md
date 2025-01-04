@@ -5,9 +5,9 @@ title: " "
 
 # Peer-reviewed Articles:
 
-<b>Angel M. Villegas-Cruz</b>. 2025. “Communicating State Repression to the International Community: A Case Study of How China Frames Its Policies in Xinjiang Online.” <i>Foreign Policy Analysis</i> 21(1). https://doi.org/10.1080/10584609.2024.2326130.
+<b>Angel M. Villegas-Cruz</b>. 2025. “Communicating State Repression to the International Community: A Case Study of How China Frames Its Policies in Xinjiang Online.” <i>Foreign Policy Analysis</i> 21(1). https://doi.org/10.1093/fpa/orae028.
 
-[Read the paper here](https://doi.org/10.1080/10584609.2024.2326130)
+[Read the paper here](https://doi.org/10.1093/fpa/orae028)
 
 <details>
 <summary>Abstract</summary>

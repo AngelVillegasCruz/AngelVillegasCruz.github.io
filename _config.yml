@@ -83,11 +83,11 @@ author:
   name             : "Villegas-Cruz"
   avatar           : "VillegasCruz.jpg"
   bio              : ""
-  location         : "University park, PA"
+  location         : "Rochester, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pIySCxoAAAAJ&hl=en" #"http://yourfullgooglescholarurl.com"
-  email            : "amv5718@psu.edu"
+  email            : "angel.villegas.upr@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "angel-manuel-villegas-cruz-安河-010061179"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-1274-2119"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
