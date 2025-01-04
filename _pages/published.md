@@ -5,7 +5,37 @@ title: " "
 
 # Peer-reviewed Articles:
 
-<b>Angel M. Villegas-Cruz</b>. 2024. “The Effect of Economic Ties on Digital Diplomacy: A Sentiment Analysis of the Twitter Accounts of Chinese Diplomatic Missions.” <i>The Hague Journal of Diplomacy</i> 1-35. https://doi.org/10.1163/1871191x-bja10194.
+<b>Angel M. Villegas-Cruz</b>. 2025. “Communicating State Repression to the International Community: A Case Study of How China Frames Its Policies in Xinjiang Online.” <i>Foreign Policy Analysis</i> 21(1). https://doi.org/10.1080/10584609.2024.2326130.
+
+[Read the paper here](https://doi.org/10.1080/10584609.2024.2326130)
+
+<details>
+<summary>Abstract</summary>
+Regimes and their proxies seek to legitimize overt state repression abroad to avoid economic and reputational costs. Yet, few scholars have studied the international dimension of repression image management. I examine how countries communicate their repressive actions to the international community depending on the audience. Framing repression as a legitimate response to a credible threat (threat strategy) is more likely when communicating with countries facing higher levels of domestic threat. But due to in-group favoritism, when addressing in-group audiences of the repressed, governments are more likely to frame repression as necessary to protect the repressed (benevolent rule strategy). To test these claims, I collect 82,011 tweets about activities in Xinjiang published by eighty-eight Chinese diplomatic accounts from 2014 to 2020. The results suggest that regimes change their repression image management strategies depending on the audience. Chinese government accounts in countries with higher levels of domestic conflict are more likely to use the threat strategy than those in countries with lower levels of conflict, while those in countries with a similar in-group to Xinjiang (Muslim countries) are more likely to use the benevolent rule strategy than those in out-group states. This expands our understanding of the communication strategies of human rights-abusing regimes.
+</details>
+<br />
+
+<b>Angel M. Villegas-Cruz</b>. 2024. “Online infrastructure and social media metrics: A quantitative analysis of African diplomatic strategies via social media.” <i>South African Journal of International Affairs</i> 31(3), 353–378. https://doi.org/10.1080/10220461.2024.2436389.
+
+[Read the paper here](https://doi.org/10.1080/10220461.2024.2436389)
+
+<details>
+<summary>Abstract</summary>
+The use of social media in public diplomacy is a recognised tool to shape public opinion and to serve political interests around the world. African ministries of foreign affairs (MFAs) have embraced this digital revolution. This article traces the emergence of African digital diplomacy by exploring, inter alia, its online infrastructure, presence and followers, as well as the factors that determine usage of social media on the continent. Employing cross-platform and cross-country comparisons, the article analyses an original dataset of digital diplomacy posts from all African MFAs active on social media. Findings reveal that African MFAs were, as of late 2023, more active on X (previously Twitter) despite having a larger presence on Facebook. The key determinants of African digital diplomacy were found to be a large population, English as an official language, democratic governance, and widespread internet access. This research has implications for diplomatic communications in Africa and beyond.
+</details>
+<br />
+
+<b>Angel M. Villegas-Cruz</b>. 2024. “Nation Branding and Covid-19: An Empirical Investigation of Self-Reports of Medical Donations in Chinese Digital Diplomacy.” <i>Journal of East Asian Studies</i> 1-26. https://doi.org/10.1017/jea.2024.13.
+
+[Read the paper here](https://doi.org/10.1017/jea.2024.13)
+
+<details>
+<summary>Abstract</summary>
+This research examines how Beijing uses social media to publicize donations and engage in nation branding as it responds to the global backlash sparked by Covid-19. It argues that self-reports of medical donations aim to enhance China’s national brand, leading to an expectation that reports about donations will primarily target countries more severely affected by the virus. To test its claims, the research analyzes over 55,000 tweets published by Chinese diplomatic missions. The results—controlled for Chinese donation exports—show a positive and significant relationship between self-reports of medical donations and the host’s spread of Covid-19. In contrast, donations are not correlated with political or economic allies. A comparison of government (CCP, ministries, etc.) and non-government donors (immigrants, firms, etc.) shows that only donations by the latter are positively correlated with the spread of the virus. This research advances our knowledge of Chinese diplomats’ online political behavior.
+</details>
+<br />
+
+<b>Angel M. Villegas-Cruz</b>. 2024. “The Effect of Economic Ties on Digital Diplomacy: A Sentiment Analysis of the Twitter Accounts of Chinese Diplomatic Missions.” <i>The Hague Journal of Diplomacy</i> 656-690. https://doi.org/10.1163/1871191x-bja10194.
 
 [Read the paper here](https://doi.org/10.1163/1871191x-bja10194)
 
@@ -15,7 +45,7 @@ The article examines how economic ties between host and guest countries affect t
 </details>
 <br />
 
-Kevin Munger, <b>Angel M. Villegas-Cruz</b>, Jorge Gallego, and Mateo Vásquez-Cortés. 2024. “‘Reenviado Muchas Veces’: How WhatsApp Users in Mexico and Colombia Understand Political Information.” <i>Political Communication</i> 1-24. https://doi.org/10.1080/10584609.2024.2326130.
+Kevin Munger, <b>Angel M. Villegas-Cruz</b>, Jorge Gallego, and Mateo Vásquez-Cortés. 2024. “‘Reenviado Muchas Veces’: How WhatsApp Users in Mexico and Colombia Understand Political Information.” <i>Political Communication</i> 41(5), 719–742. https://doi.org/10.1080/10584609.2024.2326130.
 
 [Read the paper here](https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2326130)
 
