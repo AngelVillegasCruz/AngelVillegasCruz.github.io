@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Other useful links"
+title: "Other links"
 permalink: /other/
 author_profile: true
 ---
