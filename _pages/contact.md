@@ -13,10 +13,3 @@ title: "Contact"
 44 Celebration Drive
 Office of Data Insights and Reporting
 University of Rochester
-<!--
-## Mailing Address
-203 Pond Lab
-<br> Department of Political Science
-<br> Pennsylvania State University
-<br> University Park, PA 16802
--->
