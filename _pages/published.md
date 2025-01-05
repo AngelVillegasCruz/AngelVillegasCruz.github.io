@@ -25,7 +25,7 @@ The use of social media in public diplomacy is a recognised tool to shape public
 </details>
 <br />
 
-<b>Angel M. Villegas-Cruz</b>. 2024. “Nation Branding and Covid-19: An Empirical Investigation of Self-Reports of Medical Donations in Chinese Digital Diplomacy.” <i>Journal of East Asian Studies</i> 1-26. https://doi.org/10.1017/jea.2024.13.
+<b>Angel M. Villegas-Cruz</b>. 2024. “Nation Branding and Covid-19: An Empirical Investigation of Self-Reports of Medical Donations in Chinese Digital Diplomacy.” <i>Journal of East Asian Studies</i>, 1-26. https://doi.org/10.1017/jea.2024.13.
 
 [Read the paper here](https://doi.org/10.1017/jea.2024.13)
 
@@ -45,7 +45,7 @@ Public diplomacy scholarship typically centers on English-language works, yet si
 </details>
 <br />
 
-<b>Angel M. Villegas-Cruz</b>. 2024. “The Effect of Economic Ties on Digital Diplomacy: A Sentiment Analysis of the Twitter Accounts of Chinese Diplomatic Missions.” <i>The Hague Journal of Diplomacy</i> 656-690. https://doi.org/10.1163/1871191x-bja10194.
+<b>Angel M. Villegas-Cruz</b>. 2024. “The Effect of Economic Ties on Digital Diplomacy: A Sentiment Analysis of the Twitter Accounts of Chinese Diplomatic Missions.” <i>The Hague Journal of Diplomacy</i>, 656-690. https://doi.org/10.1163/1871191x-bja10194.
 
 [Read the paper here](https://doi.org/10.1163/1871191x-bja10194)
 
