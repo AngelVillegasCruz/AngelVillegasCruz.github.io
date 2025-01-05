@@ -12,7 +12,7 @@ Hello! I am a Senior Institutional Research Analyst in the Office of Data Insigh
 
 I specialize in advanced statistical techniques for applied research. My expertise includes data mining, experimental design, panel data analysis, regression analysis, sentiment analysis, text-as-data methods, and time series analysis. Proficient in R, Python, Tableau, and other tools, I have extensive experience in cleaning, manipulating, sub-setting, and visualizing complex datasets.
 
-I hold a dual-title Ph.D. in Political Science and Asian Studies from Pennsylvania State University.
+I hold a dual-title Ph.D. in Political Science and Asian Studies from the Pennsylvania State University.
 
 My academic research explores how countries leverage digital technologies, particularly social media, to advance their foreign policy goals. My regional expertise spans East Asia, especially China, and Latin America. Methodologically, I focus on quantitative analysis, computational social science, text analysis, survey experiments, and digital humanities.
 
