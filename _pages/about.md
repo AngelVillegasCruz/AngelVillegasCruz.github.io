@@ -8,20 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a dual-title Ph.D. candidate in Political Science and Asian Studies at the Pennsylvania State University. I expect to defend my dissertation in 2024.
+Hello! I am a Senior Institutional Research Analyst in the Office of Data Insights and Reporting at the University of Rochester.
 
-My dissertation examines how countries use social media to advance their foreign policy interests and whether these efforts can influence foreign public opinion. My substantive research interests include international affairs, public diplomacy, foreign policy, social media, and international political economy. My geographic areas of expertise are East Asia, particularly China, and Latin America. Methodologically, I focus on quantitative political science, computational social science, text analysis, survey experiments, and digital humanities.
+I specialize in advanced statistical techniques for applied research. My expertise includes data mining, experimental design, panel data analysis, regression analysis, sentiment analysis, text-as-data methods, and time series analysis. Proficient in R, Python, Tableau, and other tools, I have extensive experience in cleaning, manipulating, sub-setting, and visualizing complex datasets.
 
-Moreover, I am proficient in advanced statistical techniques such as data mining, experimental design, panel data analysis, regression analysis, sentiment analysis, text-as-data methods, and time series analysis. Using R, Stata, Python, and other software, I have experience in cleaning, manipulating, sub-setting, and visualizing data.
+I hold a dual-title Ph.D. in Political Science and Asian Studies from Pennsylvania State University.
 
-My research has been published, or is forthcoming, in <i> Foreign Policy Analysis, Journal of East Asian Studies, Journal of Public Diplomacy, Political Communication, Revista [IN]Genios, The Hague Journal of Diplomacy</i>, among others.
+My academic research explores how countries leverage digital technologies, particularly social media, to advance their foreign policy goals. My regional expertise spans East Asia, especially China, and Latin America. Methodologically, I focus on quantitative analysis, computational social science, text analysis, survey experiments, and digital humanities.
 
-I also have experience teaching undergraduate courses in international relations and quantitative social science research methods, and I have worked as a teaching assistant for multiple courses. My teaching interests are closely related to my research, and I believe they mutually benefit each other.
+My peer-reviewed articles have been published or are forthcoming in <i> Foreign Policy Analysis, Journal of East Asian Studies, Journal of Public Diplomacy, Political Communication, Revista [IN]Genios, South African Journal of International Affairs, The Hague Journal of Diplomacy</i>, among others.
 
-I received my M.A. in Political Science from the Pennsylvania State University in 2021 with specializations in International Relations and Comparative Politics. Prior to attending Penn State, I studied Mandarin Chinese for two years in Beijing and obtained an M.A. in International Relations from Beijing Normal University (北京师范大学). I also hold a B.A. in Sociology from the University of Puerto Rico, Rio Piedras Campus.
+I also hold an M.A. in Political Science from the Pennsylvania State University in 2021 with specializations in International Relations and Comparative Politics. Prior to attending Penn State, I studied Mandarin Chinese for two years in Beijing and obtained an M.A. in International Relations from Beijing Normal University (北京师范大学). I also hold a B.A. in Sociology from the University of Puerto Rico, Río Piedras Campus.
+
+My pronouns are he/his/him. Please view my research projects and other pages for more information about my work, or feel free to contact me via email [(angel.villegas.upr@gmail.com)](mailto:angel.villegas.upr@gmail.com).
 
 <!--
+My substantive research interests include international affairs, public diplomacy, foreign policy, social media, and international political economy.
+
 My teaching interests are closely related to my research, and I believe they mutually benefit each other. I am interested in teaching substantive courses in international relations, comparative politics, diplomacy, Chinese foreign policy, Chinese politics, social media and politics, U.S.-China relations, and international political economy. Additionally, I am interested in teaching courses on social science research methods, with a particular focus on quantitative analysis, text-as-data methods, and survey design and analysis.>
 -->
-
-My pronouns are he/his/him. Please view my CV, Research, and other pages for more information about my work, or feel free to contact me via email [(amv5718@psu.edu)](mailto:amv5718@psu.edu).
