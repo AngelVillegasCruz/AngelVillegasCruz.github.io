@@ -75,6 +75,17 @@ El objetivo de este estudio es examinar la representación de la Iglesia Protest
 </details>
 <br />
 
+# Dissertation:
+<b>Angel M. Villegas-Cruz</b>. 2024. “Three Essays on the Politics of Digital Diplomacy.” Doctoral dissertation, Pennsylvania State University. https://etda.libraries.psu.edu/files/final_submissions/31349.
+
+[Read the paper here](https://etda.libraries.psu.edu/files/final_submissions/31349)
+
+<details>
+<summary>Abstract</summary>
+One of the novel features of 21st-century public diplomacy is the adoption of social media. Digital diplomacy holds both great promise and peril, as it can empower individuals but also be employed as a tool for low-level information warfare. However, its use and effectiveness are not yet well understood. My three-essay dissertation examines how countries use social media to advance their foreign policy interests and whether these efforts can influence foreign public opinion. In the first essay, I examine how bilateral economic ties affect the tone of online diplomatic content. Using the Twitter accounts of Chinese overseas missions, I find that stronger economic ties lead to a more positive tone. As the host’s trade dependence with China increases, Chinese diplomats are more likely to adopt a positive tone on Twitter, particularly when talking about politics and business. In the second essay, I conduct a survey experiment exposing American internet users to Chinese diplomatic tweets. My findings show that Chinese digital diplomacy does not significantly alter general perceptions of China. However, it has a strong backlash effect in terms of increasing support for anti-Chinese policies. Exposure to Chinese diplomatic tweets featuring competing information, verbal aggressiveness, or even a friendly tone increases support for tougher policies toward Beijing, such as recognizing Taiwanese independence. In the final essay, I investigate the role of individual interests in shaping diplomatic communications. Using the Twitter accounts of Chinese diplomats as a case study, I find that diplomats who are ethnic Han and hold lower-level positions are more likely to engage in aggressive rhetoric than comparable diplomats who are ethnic minorities and hold higher-level positions. Together, these essays advance our understanding of international political communications in the digital era.
+</details>
+<br />
+
 # Editor-reviewed Publications:
 
 Lucas Winter, Jason Warner, and <b>Angel M. Villegas-Cruz</b>. 2024. “Instruments of Chinese Military Influence in Argentina.” <i>M-DIME Project</i>. U.S. Army Foreign Military Studies Office.
