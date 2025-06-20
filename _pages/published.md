@@ -76,7 +76,7 @@ El objetivo de este estudio es examinar la representación de la Iglesia Protest
 <br />
 
 # Dissertation:
-<b>Angel M. Villegas-Cruz</b>. 2024. “Three Essays on the Politics of Digital Diplomacy.” Doctoral dissertation, Pennsylvania State University. https://etda.libraries.psu.edu/files/final_submissions/31349.
+<b>Angel M. Villegas-Cruz</b>. 2024. “Three Essays on the Politics of Digital Diplomacy.” Doctoral dissertation, The Pennsylvania State University.
 
 [Read the paper here](https://etda.libraries.psu.edu/files/final_submissions/31349)
 
