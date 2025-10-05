@@ -8,12 +8,13 @@ I have experience delivering technical information to a variety of non-technical
 In addition, I have given guest lectures on topics such as Chinese politics, computational social science, international political economy, and text-as-data methods. I have also worked as a teaching assistant for multiple courses. Finally, I have a [<i>Graduate Student Online Teaching Certificate</i>](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/9d3d4f52472b27a07819804138948707be50923d/files/Graduate%20Student%20Online%20Teaching%20Certificate.pdf) from the Penn State World Campus and completed the [<i>Course in College Teaching</i>](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/9d3d4f52472b27a07819804138948707be50923d/files/CCT%20spring%202022%20certificate_Angel%20Villegas.pdf) offered by the Schreyer Institute for Teaching Excellence.
 
 # University of Rochester
+## Instructor
+
 - Instructor of Record for <b>Introduction to R</b> (Summer 2025)
   - Taught for the Center for Integrated Research Computing
   - [Slides](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/PLSC%20309%20Spring%202024.pdf)
 
-# The Pennsylvania State University
-
+# Pennsylvania State University
 ## Instructor
 
 - Instructor of Record for <b>PLSC 309: Quantitative Political Analysis</b> (Spring 2024)
