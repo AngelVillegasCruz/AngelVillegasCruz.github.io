@@ -84,7 +84,7 @@ author:
   avatar           : "VillegasCruz.jpg"
   bio              : ""
   location         : "Rochester, NY"
-  employer         :
+  employer         : "University of Rochester"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pIySCxoAAAAJ&hl=en" #"http://yourfullgooglescholarurl.com"
   email            : "angel.villegas.upr@gmail.com"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "AngelVillegasCr"
+  twitter          : #"AngelVillegasCr"
   vine             :
   weibo            :
   xing             :
