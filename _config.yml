@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Angel M. Villegas-Cruz (安河)"
 title_separator          : "-"
-name                     : &name "Villegas-Cruz"
+name                     : &name "Dr. Villegas-Cruz"
 description              : &description "personal description"
 url                      : https://AngelVillegasCruz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
