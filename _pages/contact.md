@@ -10,4 +10,6 @@ title: "Contact"
 [avilleg3@ur.rochester.edu](avilleg3@ur.rochester.edu)
 
 ## Office
-44 Celebration Drive, Office of Data Insights and Reporting, University of Rochester, NY
+44 Celebration Drive
+Office of Data Insights and Reporting
+University of Rochester, NY
