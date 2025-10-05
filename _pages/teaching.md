@@ -5,14 +5,14 @@ title: "Teaching"
 
 I have experience delivering technical information to a variety of non-technical audiences. In Summer 2025, I taught an “Introduction to R” course at the Center for Integrated Research Computing (CIRC) at the University of Rochester. At Penn State, I served as the instructor of record for undergraduate courses in international relations and quantitative social science research methods. As a result of my performance as an instructor, I won the [<i>2023-24 Robert S. Friedman Award for Excellence in Teaching</i>](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/9d3d4f52472b27a07819804138948707be50923d/files/VillegasCrus%2C%20Angel%20Friedman%20award%20for%2023-24%20memo.pdf). Additionally, I have given guest lectures on topics such as Chinese politics, computational social science, international political economy, and text-as-data methods. I have also worked as a teaching assistant for multiple courses. Finally, I have a [<i>Graduate Student Online Teaching Certificate</i>](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/9d3d4f52472b27a07819804138948707be50923d/files/Graduate%20Student%20Online%20Teaching%20Certificate.pdf) from the Penn State World Campus and completed the [<i>Course in College Teaching</i>](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/9d3d4f52472b27a07819804138948707be50923d/files/CCT%20spring%202022%20certificate_Angel%20Villegas.pdf) offered by the Schreyer Institute for Teaching Excellence.
 
-#University of Rochester
+##University of Rochester
 - Instructor of Record for <b>Introduction to R</b> (Summer 2025)
   - Taught for the Center for Integrated Research Computing
   - [Slides](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/PLSC%20309%20Spring%202024.pdf)
 
-#The Pennsylvania State University
+##The Pennsylvania State University
 
-## Instructor
+### Instructor
 
 - Instructor of Record for <b>PLSC 309: Quantitative Political Analysis</b> (Spring 2024)
   - Taught for Penn State World Campus
@@ -25,7 +25,7 @@ I have experience delivering technical information to a variety of non-technical
 - I have also prepared a syllabus for an upper-level undergraduate course in Chinese Foreign Policy
   - [Syllabus](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/Chinese%20Foreign%20Policy%20Syllabus%2C%20VillegasCruz.pdf)
 
-## Teaching Assistant
+### Teaching Assistant
 
 - TA for Professor Amy Linch’s <b>PLSC 7N: Contemporary Political Ideologies</b> (Fall 2024)
   - Holding office hours, grading, and other regular TA tasks
