@@ -12,11 +12,11 @@ In addition, I have given guest lectures on topics such as Chinese politics, com
 
 - Instructor of Record for <b>Introduction to R</b> (Winter 2026)
   - Taught for the Center for Integrated Research Computing
-  - [Slides](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/2026_ppt_slides_avc.pdf)
+  - [Slides](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/2026_ppt_slides_avc.pptx)
 
 - Instructor of Record for <b>Introduction to R</b> (Summer 2025)
   - Taught for the Center for Integrated Research Computing
-  - [Slides](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/2025_ppt_slides_avc.pdf)
+  - [Slides](https://github.com/AngelVillegasCruz/AngelVillegasCruz.github.io/raw/master/files/2025_ppt_slides_avc.pptx)
 
 # Pennsylvania State University
 ## Instructor
